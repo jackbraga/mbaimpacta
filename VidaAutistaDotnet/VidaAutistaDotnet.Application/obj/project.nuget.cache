@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ErkCA1LfJxDTxrA4wkd06wp1sjd4yuRt1eHfvTOTLiSkRqc8YATv710tdVdWPWPumS4LZQx9umeemxLb2LDncw==",
+  "success": true,
+  "projectFilePath": "C:\\Jackson\\Faculdade\\vida-autista-web\\Back\\dotnet\\VidaAutistaDotnet\\VidaAutistaDotnet.Application\\VidaAutistaDotnet.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacks\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\jacks\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

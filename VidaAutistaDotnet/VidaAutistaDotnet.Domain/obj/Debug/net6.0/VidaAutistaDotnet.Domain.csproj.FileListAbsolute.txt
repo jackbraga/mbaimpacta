@@ -1,0 +1,12 @@
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\bin\Debug\net6.0\VidaAutistaDotnet.Domain.deps.json
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\bin\Debug\net6.0\VidaAutistaDotnet.Domain.dll
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\bin\Debug\net6.0\VidaAutistaDotnet.Domain.pdb
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.csproj.AssemblyReference.cache
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.AssemblyInfoInputs.cache
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.AssemblyInfo.cs
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.csproj.CoreCompileInputs.cache
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.dll
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\refint\VidaAutistaDotnet.Domain.dll
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\VidaAutistaDotnet.Domain.pdb
+C:\Jackson\Faculdade\vida-autista-web\Back\dotnet\VidaAutistaDotnet\VidaAutistaDotnet.Domain\obj\Debug\net6.0\ref\VidaAutistaDotnet.Domain.dll
